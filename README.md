@@ -20,9 +20,14 @@ node-cli-csv
  
 3.  Run `npm install` in order to install all dependencies. 
 ````
-$ npm start
+$ npm install
+````
+3.  Run `npm link` in order to install all dependencies. 
+````
+$ npm install
 ````
 
+ _Now, we can run our application on the command line using the oclif_cli `node-cli-cs`._
  
 # Quick Demo
    After defining all the dependencies, you can now execute the command : 
