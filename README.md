@@ -27,7 +27,7 @@ $ npm install
 $ npm install
 ````
 
- _Now, we can run our application on the command line using the oclif_cli `node-cli-cs`._
+ _Now, we can run our application on the command line using the `node-cli-csv`._
  
 # Quick Demo
    After defining all the dependencies, you can now execute the command : 
