@@ -15,19 +15,14 @@ node-cli-csv
 
 ## Quick start
 
-2.  Clone this repo using `git clone git@github.com:WalidMsallem/` 
-3.  Move to the appropriate directory: `cd repo`.
+1.  Clone this repo using `git clone git@github.com:WalidMsallem/node-cli-csv.git` 
+2.  Move to the appropriate directory: `cd node-cli-csv`.
  
-4.  Run `npm run install` in order to install all dependencies. 
-````
-$ 
-````
-5. 
+3.  Run `npm install` in order to install all dependencies. 
 ````
 $ npm start
 ````
- 
- _At this point the frontend will run under `http://localhost:4000`._
+
  
 # Quick Demo
    After defining all the dependencies, you can now execute the command : 
