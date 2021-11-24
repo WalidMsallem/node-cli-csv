@@ -22,30 +22,26 @@ node-cli-csv
 ````
 $ npm install
 ````
-3.  Run `npm link` in order to install all dependencies. 
+4.  Run `npm link`. 
 ````
-$ npm install
+$ npm link
 ````
 
  _Now, we can run our application on the command line using the `node-cli-csv`._
  
 # Quick Demo
    After defining all the dependencies, you can now execute the command : 
-   ````
-$ ./bin/run transform-string
-`````
-or 
-   ````
+````
 $ node-cli-csv transform-string
 `````
-A message will appear "Enter your your sentence here:", then you enter a text.
+A message will appear in your terminal, "Enter your your sentence here:", then you can enter a text.
 You will see an output of 
  ````
 $ Your text in capital letters
 $ Your text on alternating upper and lower case
 $ A msg : CSV created!
 `````
-Check your root directory and you will find a csv file in your text.
+Check your root directory and you will find a csv file with the text you entered.  
 
 # Usage
 <!-- usage -->
